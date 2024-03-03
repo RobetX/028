@@ -1,5 +1,3 @@
-# git clone https://github.com/RobetX/028
+# SCRIPT MAU D UBAH USER AGAINT NYA
 
-# cd 028
-
-# python grab.py
+# MOHON MAAF
